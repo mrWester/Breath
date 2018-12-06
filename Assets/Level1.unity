@@ -72,7 +72,7 @@ LightmapSettings:
     m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
-    m_BakeBackend: 0
+    m_BakeBackend: 1
     m_PVRSampling: 1
     m_PVRDirectSampleCount: 32
     m_PVRSampleCount: 500
@@ -12936,6 +12936,11 @@ Prefab:
       propertyPath: m_RenderMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 223169321183948520, guid: 480e990f2291d4a4f8d2d7ac6e0dd7ce,
+        type: 2}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1898553625}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 480e990f2291d4a4f8d2d7ac6e0dd7ce, type: 2}
   m_IsPrefabAsset: 0
