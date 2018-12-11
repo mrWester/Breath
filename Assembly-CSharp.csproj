@@ -56,8 +56,12 @@
      <Compile Include="Assets\Joysticks\Scripts\JoyButton.cs" />
      <Compile Include="Assets\Joysticks\Scripts\MovementController.cs" />
      <Compile Include="Assets\Joysticks\Scripts\VirtualJoystick.cs" />
+     <None Include="Assets\Assets\Ciconia Studio\Shaders\Double Sided Shaders\Double Sided Emissive Diffuse.shader" />
+     <None Include="Assets\Assets\Ciconia Studio\Shaders\Double Sided Shaders\Double Sided Transparent Diffuse Bump Cutout.shader" />
      <None Include="Assets\Allegorithmic\Plugins\engine_build_info.txt" />
      <None Include="Assets\StylizedWater\Shaders\StylizedWater_desktop.shader" />
+     <None Include="Assets\Assets\Ciconia Studio\Shaders\Double Sided Shaders\Double Sided Standard Diffuse Bump.shader" />
+     <None Include="Assets\Assets\Ciconia Studio\Shaders\Double Sided Shaders\Double Sided Transparent Diffuse Bump.shader" />
      <None Include="Assets\Allegorithmic\Plugins\EULA.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Web_Unity/BreathRepo/Breath/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
