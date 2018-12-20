@@ -59,6 +59,12 @@
      <Compile Include="Assets\Allegorithmic\Plugins\Substance\Livelink\Editor\Scripts\MaterialsManipulation.cs" />
      <Compile Include="Assets\Allegorithmic\Plugins\Substance\Livelink\Editor\Scripts\MeshLinkEditor.cs" />
      <Compile Include="Assets\Allegorithmic\Plugins\Substance\Livelink\Editor\Scripts\ShadersInfos.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\LODSwitcher_Editor.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\SimpleLOD_Editor.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\SimpleLOD_MaterialPopup.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\SimpleLOD_MergePopup.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\SimpleLOD_RemoveHiddenPopup.cs" />
+     <Compile Include="Assets\SimpleLOD\Editor\SimpleLOD_RemovePopup.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Web_Unity/BreathRepo/Breath/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
