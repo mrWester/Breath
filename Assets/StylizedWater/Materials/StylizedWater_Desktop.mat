@@ -32,24 +32,24 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Cutoff: 0.5
-    - _Depth: 30
-    - _Depthdarkness: 0.496
+    - _Depth: 10.9
+    - _Depthdarkness: 0.417
     - _Fresnelexponent: 0.5
     - _Glossiness: 1
-    - _RefractionAmount: 0
-    - _RimSize: 4
-    - _Rimfalloff: 0.7
+    - _RefractionAmount: 0.04
+    - _RimSize: 0.89
+    - _Rimfalloff: 0.98
     - _Rimtiling: 2
-    - _SurfaceHighlight: 0.478
-    - _SurfaceHightlighttiling: 0.75
+    - _SurfaceHighlight: 0.235
+    - _SurfaceHightlighttiling: 3.35
     - _Surfacehightlightsize: 0
     - _Tesselation: 0.1
-    - _Tiling: 0.93
-    - _Transparency: 1
-    - _Wavesspeed: 0.1
-    - _Wavesstrength: 1
+    - _Tiling: 0.796
+    - _Transparency: 0.207
+    - _Wavesspeed: 0.37
+    - _Wavesstrength: 0.162
     - _Worldspacetiling: 0
     m_Colors:
-    - _FresnelColor: {r: 1, g: 1, b: 1, a: 0.5019608}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 0, g: 0, b: 0, a: 0.5019608}
+    - _RimColor: {r: 0.11694552, g: 0.33962262, b: 0.33962262, a: 1}
     - _WaterColor: {r: 0, g: 0.63999987, b: 1, a: 1}
