@@ -81,12 +81,13 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecIntensity: 2
     - _SpecularHighlights: 1
+    - _SpecularIntensity: 0
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 1, b: 0.25517225, a: 1}
+    - _Color: {r: 1, g: 0, b: 0, a: 1}
     - _Diffusecolor: {r: 1, g: 0, b: 0.11764717, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecColor: {r: 1, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
     - _Speccolor: {r: 0, g: 0, b: 0, a: 1}
